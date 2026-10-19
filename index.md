@@ -43,6 +43,7 @@ planning (mock tables) or later on after the analysis is complete.
 {tfrmtbuilder} can be installed and used with the following code:
 
 ``` r
+
 # development version
 devtools::install_github("GSK-Biostatistics/tfrmtbuilder")
 
